@@ -13,6 +13,6 @@ Checksums for use with the sample files
 
 |Filename|MD5 Checksum|SHA Checksum|
 |---|---|---|
-|sample-a.pdf| | |
-|sample-b.pdf| | |
+|sample-a.pdf|8534726d6ec0c42e812049332000664c |fd0e9a64fa2f7feb056e72b6d078fa9e48321034 |
+|sample-b.pdf|d7f1230f98b20ffa52f2e7fea6d2f115 |ecef236206a5270f0492d2baf32a1ea9fc9dfc78 |
 
